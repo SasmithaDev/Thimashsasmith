@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Back-End
 - 💞️ I’m looking to collaborate on express
 - 📫 How to reach me - "Sasmitha Weerakkody" all social medias
-- 😄 Pronouns: Jocker, Overthinker, Hardworker
+- 😄 Pronouns: Hardworker, Programmer
 - ⚡ Fun fact: Trust people very Quickly
 
 <!---
